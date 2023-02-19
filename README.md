@@ -7,8 +7,5 @@ The homework included in the repo:
 
 
 # Some Results
-<p>
-The learned weights for each class of the CIFAR10 dataset, using an SVM liner classifier
-</p>
-![image](https://user-images.githubusercontent.com/67804152/219955275-67932847-0ac3-4333-9c39-ded8cbcadc5d.png)
-
+The learned weights of each class of the CIFAR10 dataset, using an SVM linear classifier:
+<img alt="learned_weights_of_classes_SVM_CIFAR10" src="https://user-images.githubusercontent.com/67804152/219955650-8de814ec-7693-47a4-a728-eb8e1883e79d.png">
